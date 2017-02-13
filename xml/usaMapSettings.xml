@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+
+<mapSettings 
+
+mapWidth = "800"
+mapHeight = "508"
+
+offColor = "222222"
+strokeColor = "ffffff"
+
+useSideText = "false"
+textAreaWidth = "300"
+textAreaPadding = "10"
+
+/>
+
+<defaultSideText>
+  <![CDATA[]]>
+</defaultSideText>
+
+<stateData stateName="Alabama" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Alaska" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Arizona" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Arkansas" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="California" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Colorado" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Connecticut" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Delaware" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="District of Columbia" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Florida" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Georgia" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Hawaii" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Idaho" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Illinois" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Indiana" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Iowa" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Kansas" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>ta>
+
+<stateData stateName="Kentucky" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Louisiana" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Maine" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Maryland" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Massachusetts" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Michigan" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Minnesota" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Mississippi" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Missouri" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Montana" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Nebraska" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Nevada" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="New Hampshire" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="New Jersey" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="New Mexico" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="New York" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="North Carolina" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="North Dakota" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Ohio" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Oklahoma" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Oregon" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Pennsylvania" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Rhode Island" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="South Carolina" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="South Dakota"  url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Tennessee" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Texas" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Utah" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Vermont" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Virginia" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Washington" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="West Virginia" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Wisconsin" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+<stateData stateName="Wyoming" url = "####" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "999900" stateSelectedColor = "feb41c">
+<![CDATA[]]>
+</stateData>
+
+
+</data>
